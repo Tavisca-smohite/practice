@@ -12,6 +12,7 @@ namespace test1
             string str = "sheetal";
             object obj = str as string;
             Console.WriteLine(obj);
+            Console.WriteLine(5+3);
             Console.ReadKey();
         }
     }
